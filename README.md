@@ -66,7 +66,7 @@ customer-support-ai/
 
 Clone the repository:
 
-git clone https://github.com/YOUR-USERNAME/customer-support-ai.git
+git clone https://github.com/Abitha1522/customer-support-ai.git
 cd customer-support-ai
 
 Install the required Python packages:
